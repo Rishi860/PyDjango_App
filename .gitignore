@@ -1,3 +1,4 @@
 .vscode
 media
 db.sqlite3
+posts.json
